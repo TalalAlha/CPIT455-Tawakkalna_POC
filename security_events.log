@@ -1,0 +1,7 @@
+2025-11-24 14:00:33,915 - INFO - Access Granted: Record 1010101010 accessed by authorized user.
+2025-11-24 14:00:33,916 - WARNING - Auth Failure: Invalid token used for ID 1010101010
+2025-11-24 14:00:33,916 - WARNING - Input Validation: Invalid ID format detected - 101010 OR 1=1
+2025-11-24 14:00:33,917 - WARNING - DoS Prevention: Rate limit exceeded for IP 192.168.1.1
+2025-11-24 14:00:33,917 - WARNING - DoS Prevention: Rate limit exceeded for IP 192.168.1.1
+2025-11-24 14:00:33,917 - WARNING - DoS Prevention: Rate limit exceeded for IP 192.168.1.1
+2025-11-24 14:00:33,917 - WARNING - DoS Prevention: Rate limit exceeded for IP 192.168.1.1
